@@ -54,6 +54,11 @@
 		</repository>
 	</repositories>
 
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/profilers/</url>
+	</ciManagement>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/profilers</connection>
 		<developerConnection>scm:git:git@github.com:fiji/profilers</developerConnection>
