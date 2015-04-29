@@ -1,3 +1,5 @@
+![](http://jenkins.imagej.net/job/profilers/lastBuild/badge/icon)
+
 This project contains a bunch of profilers based on
 [Javassist](http://javassist.org).
 
